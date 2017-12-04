@@ -1,0 +1,8 @@
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/pull_up"
+        android:maxLevel="0" />
+    <item
+        android:drawable="@drawable/pull_up_close"
+        android:maxLevel="1" />
+</level-list>
